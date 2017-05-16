@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+.colr
+{
+	color:#abc502;
+}
+.bdr
+{
+    border-radius: 10px;	
+}
+.efft
+{
+}
+.efft:hover 
+{
+	box-shadow: 0px 1px 6px 2px #DCDEDD;
+}
+.bdr_shd
+{
+	box-shadow: 0px 2px 10px -2px;
+	padding-top:20px;	
+}
+.pad_ryt
+{
+	padding-right:30px;	
+}
+
+/* Gokul */
+#header123 {
+	height: 150px;
+}
